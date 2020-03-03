@@ -80,13 +80,19 @@ mat2 = logical(mat) % Note that all none-zero elements in mat are convered
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 % 9
 =======
+=======
+>>>>>>> upstream/master
 % built-in logical functions 
 v1 = logical([0 0 0 0 0 0 0])
 v2 = logical([1 1 0 1 0 1 0])
 v3 = logical([1 1 1 1 1 1 1])
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 any_1 = any(v1) 
 any_2 = any(v2)
